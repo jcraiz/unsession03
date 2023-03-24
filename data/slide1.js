@@ -1,0 +1,5 @@
+(function(){var loadHandler=window['sl_{A6E6D0B4-0CC1-4A1E-91D5-623DE98F80A2}'];loadHandler&&loadHandler(0, '<div id="spr0_22b03928"><div id="spr1_22b03928" class="kern slide"><img id="img4_22b03928" src="data/img3.png" width="960px" height="540px" alt="" style="left:0px;top:0px;"/><div id="spr3_22b03928"><img id="img0_22b03928" src="data/img0.png" width="6" height="540" alt="" style="left:-0.105px;"/></div><div id="spr4_22b03928" style="left:954.21px;"><img id="img1_22b03928" src="data/img0.png" width="6" height="540" alt="" style="left:-0.105px;"/></div><div id="spr5_22b03928" style="left:289.228px;top:469.135px;"><img id="img2_22b03928" src="data/img1.png" width="382" height="71" alt="A picture containing drawing\
+\
+Description automatically generated" style="left:-0.228px;top:-0.068px;"/></div><div id="spr6_22b03928" style="left:372.325px;top:162.325px;"><img id="img3_22b03928" src="data/img2.png" width="215" height="215" alt="A picture containing food\
+\
+Description automatically generated" style="left:0.175px;top:0.175px;"/></div></div><div id="spr2_22b03928" class="kern slide"></div></div>', '{"s":[]}');})();
